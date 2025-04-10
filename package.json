@@ -9,17 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hammady/buttjs.git"
+    "url": "https://github.com/doctorxlovexat/but"
   },
   "keywords": [
     "butt"
   ],
-  "author": "Hossam Hammady <github@hammady.net>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/hammady/buttjs/issues"
-  },
-  "homepage": "https://github.com/hammady/buttjs",
+  "homepage": "https://github.com/doctorxlovexat/but",
   "dependencies": {
     "commander": "^9.2.0",
     "debug": "^4.3.4"
