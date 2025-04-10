@@ -16,7 +16,7 @@
   ],
   "homepage": "https://github.com/doctorxlovexat/but",
   "dependencies": {
-    "commander": "^9.2.0",
+    "commander": "^9.0.0",
     "debug": "^4.3.4"
   }
 }
